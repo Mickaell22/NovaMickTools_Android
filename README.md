@@ -19,7 +19,7 @@ Versión Android de NovaMickTools. App en desarrollo — actualmente muestra la 
 ## Correr localmente
 
 ```bash
-git clone https://github.com/Mickaell22/NovaMickToolsAndoid.git
+git clone https://github.com/Mickaell22/NovaMickTools_Android.git
 ```
 
 Abrir en Android Studio y ejecutar en emulador o dispositivo físico (API 24+).
